@@ -1,9 +1,10 @@
-This project is supported by Cult of Coders
+This project 
 =======
+was created Cult of Coders and is now supported by Merlyn
 
-Now compatible with meteor > 2.4
-=======
-
+```
+Now compatible with meteor 2.4 or higher
+```
 Purpose
 =======
 Make Meteor's `Session` object persist its values locally and across page
