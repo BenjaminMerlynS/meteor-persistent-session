@@ -1,5 +1,10 @@
 ### Master [changes](https://github.com/okgrow/meteor-persistent-session/compare/v0.4.4...master)
 
+### [0.5.0](https://github.com/merlyn/meteor-persistent-session/compare/v0.4.4...v0.5)
+
+* BUMP - to compatibility with meteor 2.4
+
+
 ### [0.4.4](https://github.com/okgrow/meteor-persistent-session/compare/v0.4.3...v0.4.4)
 
  * Fix #32 - setDefaultPersistent with an object doesn't persist data (Reported by [rslonik](https://github.com/rslonik)

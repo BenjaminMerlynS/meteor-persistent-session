@@ -1,6 +1,9 @@
 This project is supported by Cult of Coders
 =======
 
+Now compatible with meteor > 2.4
+=======
+
 Purpose
 =======
 Make Meteor's `Session` object persist its values locally and across page
@@ -35,7 +38,7 @@ to `persistent`:
 Installation
 ============
 ```
-meteor add cultofcoders:persistent-session
+meteor add merlyn:persistent-session
 ```
 **Note:** To use persistent-session, your project must have Session already installed. You can add Meteor's Session package by `meteor add session`.
 
